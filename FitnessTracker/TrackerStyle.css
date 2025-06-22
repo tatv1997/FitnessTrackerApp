@@ -8,8 +8,8 @@
 /* Body Styling */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f2f4f8;
-  color: #ce2525;
+  background-color: #d1d1d1;
+  color: #000000;
   padding: 20px;
   line-height: 1.6;
 }
@@ -18,7 +18,7 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
-  background: #fff;
+  background: #e70000;
   padding: 30px;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
